@@ -1,0 +1,4 @@
+# Raw and intermediate files: heavy files 
+data/raw/*
+data/intermediate/*
+data/clean/*.csv

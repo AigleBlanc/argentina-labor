@@ -1,0 +1,77 @@
+{
+  "treatments": [
+    "CV",
+    "SkillRecs",
+    "DemandRecs"
+  ],
+  "strata": "strata",
+  "x_candidates": [
+    "edad",
+    "female",
+    "has_children",
+    "educ_primary",
+    "educ_secondary",
+    "work_experience",
+    "any_pueblo_originario",
+    "any_etnia",
+    "nivel_educativo_Nunca_Asisti\u00f3",
+    "nivel_educativo_Primario_Completo",
+    "nivel_educativo_Primario_Incompleto",
+    "nivel_educativo_Secundario_Completo",
+    "nivel_educativo_Secundario_Incompleto",
+    "nivel_educativo_Superior_Completo",
+    "nivel_educativo_Superior_Incompleto",
+    "trabaja_actualmente_NO",
+    "trabaja_actualmente_SI",
+    "trabaja_actualmente_missing",
+    "experiencia_laboral_anterior_NO",
+    "experiencia_laboral_anterior_SI",
+    "experiencia_laboral_anterior_missing",
+    "discapacidad_NO",
+    "discapacidad_SI",
+    "discapacidad_missing",
+    "hijos_menores_NO",
+    "hijos_menores_SI",
+    "regi\u00f3n_AMBA",
+    "regi\u00f3n_Centro",
+    "regi\u00f3n_Norte",
+    "regi\u00f3n_Sur",
+    "regi\u00f3n_missing"
+  ],
+  "survey_outcomes": {
+    "skills_aspirations": [
+      "new_skill",
+      "new_career_path"
+    ],
+    "job_search": [
+      "portal_visits",
+      "search_hours",
+      "n_applications"
+    ],
+    "reservation_wage": [
+      "reservation_wage"
+    ],
+    "employment": [
+      "days_worked",
+      "job_offer",
+      "job_prob_3m"
+    ]
+  },
+  "admin_outcomes": {
+    "courses": [
+      "enrolled_in_course"
+    ],
+    "cv_update": [
+      "updated_cv"
+    ],
+    "formal_employment": [
+      "emp_any_post",
+      "emp_share_months_post"
+    ]
+  },
+  "heterogeneity": [
+    "female",
+    "edad_above_med"
+  ],
+  "post_start_month": 202505
+}
